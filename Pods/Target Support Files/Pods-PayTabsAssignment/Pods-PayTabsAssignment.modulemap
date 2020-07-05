@@ -1,0 +1,6 @@
+framework module Pods_PayTabsAssignment {
+  umbrella header "Pods-PayTabsAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
